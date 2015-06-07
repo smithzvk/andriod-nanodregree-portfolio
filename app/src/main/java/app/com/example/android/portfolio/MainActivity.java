@@ -48,8 +48,8 @@ public class MainActivity extends ActionBarActivity {
             case R.id.spotify_streamer:
                 text = "This button will launch my Spotify Streamer.";
                 break;
-            case R.id.scores_app:
-                text = "This button will launch my Scores app.";
+            case R.id.football_scores_app:
+                text = "This button will launch my Football Scores app.";
                 break;
             case R.id.library_app:
                 text = "This button will launch my Library app.";

@@ -52,8 +52,8 @@
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Scores App"
-                    android:id="@+id/scores_app"
+                    android:text="Football Scores App"
+                    android:id="@+id/football_scores_app"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
                     android:enabled="true"
